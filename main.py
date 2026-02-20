@@ -1,6 +1,8 @@
 """
 Install once:
     py -m pip install requests matplotlib cartopy numpy scipy pillow
+    or
+    pip install requests matplotlib cartopy numpy scipy pillow netCDF4
 
 QML files must be in the SAME folder as this script:
     temperature_color_table_high.qml
@@ -10,6 +12,8 @@ QML files must be in the SAME folder as this script:
 
 Run:
     py main.py
+    or
+    python main.py
 
 Output (one PNG per parameter, saved next to the script):
     map_1_temperature.png   map_2_wind_speed.png   map_3_wind_gust.png
@@ -496,3 +500,4 @@ if __name__ == "__main__":
         while True: time.sleep(5)
     except KeyboardInterrupt:
         print("\nStopped.")
+
