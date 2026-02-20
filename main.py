@@ -10,7 +10,7 @@ QML files must be in the SAME folder as this script:
     precipitation_color_table.qml
 
 Run:
-    py estonia_weather_map.py
+    py main.py
 
 Output (one PNG per parameter, saved next to the script):
     map_1_temperature.png   map_2_wind_speed.png   map_3_wind_gust.png
@@ -561,3 +561,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
 
         print("\nStopped.")
+
