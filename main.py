@@ -455,13 +455,13 @@ def loop(cmaps, gx, gy):
 if __name__ == "__main__":
     print()
     print("╔══════════════════════════════════════════════════════╗")
-    print("║          Ilmakaart  –  Vali piirkond                 ║")
+    print("║          Ilmakaart  –  Vali piirkond                ║")
     print("║          Weather Map  –  Choose region               ║")
     print("╠══════════════════════════════════════════════════════╣")
     print("║  1)  Eesti (Estonia only)                            ║")
     print("║  2)  Läti  (Latvia only)                             ║")
     print("║  3)  Leedu (Lithuania only)                          ║")
-    print("║  4)  Eesti + Läti + Leedu  (All three)               ║")
+    print("║  4)  Eesti + Läti + Leedu  (All three)              ║")
     print("╚══════════════════════════════════════════════════════╝")
     print()
 
