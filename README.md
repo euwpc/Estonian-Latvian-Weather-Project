@@ -1,4 +1,4 @@
-# Estonian-Latvian-Weather-Project
+# Baltic-Weather-Project
 
 View the main.py file for instructions.
 Inspiration from HRMTA
