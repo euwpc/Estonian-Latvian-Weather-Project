@@ -1,8 +1,4 @@
 """
-Estonia Weather Maps  –  EMHI observations, cartopy, QML colormaps
-===================================================================
-Looks like the Polish reference map: smooth colour field, white outside
-the country, sharp black coastlines/borders, small station value labels.
 
 Install once:
     py -m pip install requests matplotlib cartopy numpy scipy pillow
@@ -563,4 +559,5 @@ if __name__ == "__main__":
     try:
         while True: time.sleep(5)
     except KeyboardInterrupt:
+
         print("\nStopped.")
