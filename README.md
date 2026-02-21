@@ -97,7 +97,8 @@ Generated PNG maps will appear inside the project folder.
 To open the folder quickly:
 
 `explorer .` 
-(You may need to stop auto-updating in order to open the folder)
+
+(You will need to stop auto-updating in order to open the folder (CTRL + C to stop auto-updating))
 
 ### Running the Project Later
 
