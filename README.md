@@ -1,4 +1,4 @@
-# SWP – Baltic Weather Project
+# Baltic Weather Project
 
 Visualize meteorological data using high-quality maps generated from NetCDF files.  
 Built with Python, Matplotlib, Cartopy, NumPy, and SciPy.
