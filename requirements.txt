@@ -1,0 +1,6 @@
+requests
+matplotlib
+cartopy
+numpy
+scipy
+shapely
